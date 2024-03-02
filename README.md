@@ -1,1 +1,0 @@
-# android_kernel_samsung_a3core
